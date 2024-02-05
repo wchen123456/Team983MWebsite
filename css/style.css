@@ -1,0 +1,23 @@
+.nav {
+    list-style:none;
+    text-align:center;
+}
+.nav li {
+    display:inline;
+    margin-right:20px;
+}
+.container {
+    width: 1000px;
+    margin:auto;
+    border: 1px solid rgb(0, 0, 0);
+    padding:50px;
+    background-color: rgb(204, 119, 34);
+    border-radius: 20px;
+}
+
+h1, h2 , p {
+    color: rgb(0, 255, 238);
+}
+
+
+
